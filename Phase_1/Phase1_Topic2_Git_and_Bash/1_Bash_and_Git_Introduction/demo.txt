@@ -6,9 +6,10 @@ Basic Navigation
 pwd
 ls
 moving: ., .., ~, and /
-cd: go to ~/flatiron
-touch: create a new .txt file
-mkdir: today's work
+mkdir today
+cd: go to ~/today
+mkdir: flat
+touch: create a new.txt file
 man (on Windows: HELP): get help on `mv`
 mv: move the .txt file to the new folder
 ls <dir>: use `ls` to verify the move
@@ -17,8 +18,8 @@ VIM
 ---
 vim: edit the .txt file in VIM
 switch between insert and command modes (`i` and `ESC`)
-:: use `:` to bring up a command prompt inside VIM
-wq: save and exit
+use `:` to bring up a command prompt inside VIM
+wq save and exit
 cd .
 Your Turn!
 ----------
