@@ -1,6 +1,6 @@
-# NYC-DS-051622
+# NYC-DS-091922
 
-A repository for all study group or optional review resources for the Flatiron School's NYC Data Science Full-Time 051622 Cohort
+A repository for all study group or optional review resources for the Flatiron School's NYC Data Science Full-Time 091922 Cohort
 
 ![confused math lady gif from giphy](https://media.giphy.com/media/WRQBXSCnEFJIuxktnw/giphy.gif)
 
@@ -13,12 +13,12 @@ Watch a video walkthrough of these instructions [here](https://youtu.be/Vyb5_hao
 
 2. Then clone your fork down to your local computer
 ```
-git clone https://github.com/[yourusername]/NYC-DS-051622.git
+git clone https://github.com/[yourusername]/NYC-DS-091922.git
 ```
 
 3. Add the `/flatiron-school/` version as the `upstream` (to pull future changes)
 ```
-git remote add upstream https://github.com/flatiron-school/NYC-DS-051622.git
+git remote add upstream https://github.com/flatiron-school/NYC-DS-091922.git
 ```
 
 4. You can make changes to the notebooks now! Remember to push your changes to your forked version of the repo (to put your local changes up online):
